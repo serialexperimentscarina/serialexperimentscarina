@@ -3,13 +3,12 @@
 
 - 🔭 I’m currently working on **CS50x & The Odin Project**
 
-- 🌱 I’m currently studying **System analysis and development in college**
+- 🌱 I’m currently studying **System Analysis and Development in college**
 
 - 📫 How to reach me **hiicariina@gmail.com**
 
 - ⚡ Fun fact **My favorite series is Serial Experiments Lain**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
