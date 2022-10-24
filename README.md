@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **CS50x & The Odin Project**
 
-- 🌱 I’m currently studying **System Analysis and Development in college**
+- 🌱 I’m currently studying **System Analysis and Development in College**
 
 - 📫 How to reach me **hiicariina@gmail.com**
 
