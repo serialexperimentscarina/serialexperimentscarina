@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently studying **System Analysis and Development in College**
 
-- 📫 How to reach me **carina.goncalves104@gmail.com**
+- 📫 How to reach me **carinagoncalves104@gmail.com**
 
 - ⚡ Fun fact **My favorite series is Serial Experiments Lain**
 
