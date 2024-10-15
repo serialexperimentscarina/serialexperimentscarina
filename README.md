@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Carina</h1>
 <h3 align="center">A developer from Brazil</h3>
 
-- 🔭 I’m currently working on **College thesis + RPG Yume Nikki Fangame + a few Rust projects**
-
 - 🌱 I’m currently studying **System Analysis and Development in college + Rust and Game Dev on the side**
 
 - 📫 How to reach me **carinagoncalves104@gmail.com**
