@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">hello, i'm carina, a brazilian developer with interest in game developmen.t</p>
+<p align="left">hello, i'm carina, a brazilian developer with interest in game and web development.</p>
 
 ###
 
